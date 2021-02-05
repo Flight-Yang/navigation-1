@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+
+  "name": "13-navigation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Flight-Yang/navigation-1.git",
+  "author": "yangxiong <yx17835697335@163.com>",
+  "license": "MIT"
+}
